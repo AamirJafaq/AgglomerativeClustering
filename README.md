@@ -1,1 +1,2 @@
 # AgglomerativeClustering
+AgglomerativeClustering is a type of hierarchical clustering algorithm in machine learning. It is a bottom-up approach where each data point starts as its own cluster, and pairs of clusters are merged as one moves up the hierarchy based on a specified criterion. The process continues until the desired number of clusters (n_clusters) is reached. Alternatively, it can stop based on a distance threshold.
